@@ -1,6 +1,8 @@
-#include<bits/stdc++.h>
+#include<cstdio>
+
 using namespace std;
-int main()
-{
-  cout<<"Hello-world\n";
+
+int main() {
+  printf("Hello-world\n");
+  return 0;
 }
